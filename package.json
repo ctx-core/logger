@@ -30,7 +30,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"chalk": "^4.0.0"
+		"chalk": "^4.1.0"
 	},
 	"gitHead": "efba09e30f98e1cd9908c30b6784692c3ff73925"
 }
