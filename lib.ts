@@ -1,24 +1,20 @@
 import {
-	debug__chalk,
-	log__chalk,
-	info__chalk,
-	warn__chalk,
-	error__chalk
+	chalk_debug, chalk_log, chalk_info, chalk_warn, chalk_error
 } from './chalk'
 export function debug(...arg_a1) {
-	return debug__chalk(_timestamp(), ...arg_a1)
+	return chalk_debug(_timestamp(), ...arg_a1)
 }
 export function log(...arg_a1) {
-	return log__chalk(_timestamp(), ...arg_a1)
+	return chalk_log(_timestamp(), ...arg_a1)
 }
 export function info(...arg_a1) {
-	return info__chalk(_timestamp(), ...arg_a1)
+	return chalk_info(_timestamp(), ...arg_a1)
 }
 export function warn(...arg_a1) {
-	return warn__chalk(_timestamp(), ...arg_a1)
+	return chalk_warn(_timestamp(), ...arg_a1)
 }
 export function error(...arg_a1) {
-	return error__chalk(_timestamp(), ...arg_a1)
+	return chalk_error(_timestamp(), ...arg_a1)
 }
 export const error__log = error
 function _timestamp() {

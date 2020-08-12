@@ -1,5 +1,6 @@
-export declare function debug__chalk(...arg_a1: any[]): any;
-export declare function log__chalk(...arg_a1: any[]): any;
-export declare function info__chalk(...arg_a1: any[]): any;
-export declare function warn__chalk(...arg_a1: any[]): any;
-export declare function error__chalk(...arg_a1: any[]): any;
+export declare function init_chalk(): void;
+export declare function chalk_debug(...arg_a1: any[]): any;
+export declare function chalk_log(...arg_a1: any[]): any;
+export declare function chalk_info(...arg_a1: any[]): any;
+export declare function chalk_warn(...arg_a1: any[]): any;
+export declare function chalk_error(...arg_a1: any[]): any;
