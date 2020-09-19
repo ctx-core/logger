@@ -29,11 +29,11 @@
   "dependencies": {
     "chalk": "^4.1.0"
   },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  },
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "b46c3d9551208df9c5d8ebd48837aa99b2daacdd",
-  "devDependencies": {
-    "typescript": "^4.0.3"
-  }
+  "gitHead": "b46c3d9551208df9c5d8ebd48837aa99b2daacdd"
 }
