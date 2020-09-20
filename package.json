@@ -1,39 +1,38 @@
 {
-  "name": "@ctx-core/logger",
-  "version": "4.0.1",
-  "description": "ctx-core logger",
-  "keywords": [
-    "ctx-core",
-    "logger"
-  ],
-  "homepage": "https://github.com/ctx-core/logger#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/logger/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/logger/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "main": "./index.js",
-  "module": "./index.js",
-  "types": "./index.ts",
-  "scripts": {
-    "build": "npm run clean && npm run compile",
-    "clean": "rm -f tsconfig.tsbuildinfo",
-    "compile": "./node_modules/.bin/tsc -b",
-    "exec": "$@",
-    "prepublishOnly": "npm run compile"
-  },
-  "dependencies": {
-    "chalk": "^4.1.0"
-  },
-  "devDependencies": {
-    "typescript": "^4.0.3"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "b46c3d9551208df9c5d8ebd48837aa99b2daacdd"
+	"name": "@ctx-core/logger",
+	"version": "4.0.1",
+	"description": "ctx-core logger",
+	"keywords": [
+		"ctx-core",
+		"logger"
+	],
+	"homepage": "https://github.com/ctx-core/logger#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/logger/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/logger/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
+	"scripts": {
+		"build": "npm run clean && npm run compile",
+		"clean": "rm -f tsconfig.tsbuildinfo",
+		"compile": "./node_modules/.bin/tsc -b",
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
+	},
+	"dependencies": {
+		"chalk": "^4.1.0"
+	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
