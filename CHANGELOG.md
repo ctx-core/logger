@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 5.0.0
+
+### Major Changes
+
+- remove chalk.browser
+
 ## 4.0.6
 
 ### Patch Changes
