@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/logger",
-	"version": "6.0.10",
+	"version": "6.0.11",
 	"description": "ctx-core logger",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"chalk": "^4.1.0"
+		"chalk": "^4.1.1"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.4"

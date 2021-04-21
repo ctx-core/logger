@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 6.0.11
+
+### Patch Changes
+
+- chalk: ^4.1.0 -> ^4.1.1
+
 ## 6.0.10
 
 ### Patch Changes
