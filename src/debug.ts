@@ -1,5 +1,5 @@
 import { chalk_debug } from './chalk'
-import { _logger_timestamp } from './_logger_timestamp'
-export function debug(...arg_a1: any[]) {
-	return chalk_debug(_logger_timestamp(), ...arg_a1)
+import { logger_timestamp_ } from './logger_timestamp_'
+export function debug(...arg_a: any[]) {
+	return chalk_debug(logger_timestamp_(), ...arg_a)
 }
