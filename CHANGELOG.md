@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 7.0.1
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+
 ## 7.0.0
 
 ### Major Changes
