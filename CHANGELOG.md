@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 8.0.2
+
+### Patch Changes
+
+- typescript: ^4.3.3 -> ^4.3.4
+
 ## 8.0.1
 
 ### Patch Changes
