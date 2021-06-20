@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 8.0.6
+
+### Patch Changes
+
+- fix: deploying \*.js files
+
 ## 8.0.5
 
 ### Patch Changes
