@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 8.0.4
+
+### Patch Changes
+
+- npm run prepare instead of npm run prepublishOnly
+
 ## 8.0.3
 
 ### Patch Changes
