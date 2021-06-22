@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 8.0.7
+
+### Patch Changes
+
+- "prepublishOnly": "npm run clean && npm run compile"
+
 ## 8.0.6
 
 ### Patch Changes
