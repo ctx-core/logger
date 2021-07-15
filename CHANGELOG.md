@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
 ## 8.0.10
 
 ### Patch Changes

@@ -1,11 +1,7 @@
-import type { Chalk } from 'chalk'
-let chalk:Chalk
+import chalk  from 'chalk'
 const use_chalk = !!(
 	typeof window === 'undefined' && typeof require === 'function'
 )
-export function init_chalk() {
-	chalk = _chalk()
-}
 export function chalk_debug(...arg_a:any[]) {
 	return (console.debug || console.info).apply(console, debug_chalk_a_(...arg_a))
 }
@@ -55,13 +51,4 @@ function error_chalk_a_(...arg_a:any[]) {
 		? [chalk.red.bold(...arg_a)]
 		: arg_a
 	)
-}
-function _chalk() {
-	if (use_chalk) {
-		return require('chalk')
-	} else {
-		return function chalk(...arg_a:any[]) {
-			return arg_a
-		}
-	}
 }
