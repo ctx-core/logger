@@ -1,5 +1,12 @@
 # @ctx-core/logger
 
+## 9.0.1
+
+### Patch Changes
+
+- 2a6971f80: fix: "type": "module"
+- fix: "type": "module"
+
 ## 9.0.0
 
 ### Major Changes

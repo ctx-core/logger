@@ -1,4 +1,4 @@
-import { log } from './log'
+import { log } from './log.js'
 export function log_(message: any, fn: Function) {
 	return (...arg_a:any[]) => {
 		log(message)
