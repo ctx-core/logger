@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.7
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+
 ## 9.0.6
 
 ### Patch Changes
