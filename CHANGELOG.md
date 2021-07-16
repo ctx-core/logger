@@ -1,5 +1,17 @@
 # @ctx-core/logger
 
+## 9.0.10
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+
+## 9.0.9
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+
 ## 9.0.8
 
 ### Patch Changes
