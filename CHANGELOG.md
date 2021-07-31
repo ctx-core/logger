@@ -1,5 +1,17 @@
 # @ctx-core/logger
 
+## 9.0.14
+
+### Patch Changes
+
+- update dependencies
+
+## 9.0.13
+
+### Patch Changes
+
+- chalk: ^4.1.1 -> ^4.1.2
+
 ## 9.0.12
 
 ### Patch Changes
