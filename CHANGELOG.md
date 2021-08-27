@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.16
+
+### Patch Changes
+
+- fix: typescript upgrade: build
+
 ## 9.0.15
 
 ### Patch Changes
