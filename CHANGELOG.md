@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.19
+
+### Patch Changes
+
+- compile using swc
+
 ## 9.0.18
 
 ### Patch Changes
