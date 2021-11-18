@@ -1,5 +1,12 @@
 # @ctx-core/logger
 
+## 9.0.21
+
+### Patch Changes
+
+- typescript: ^4.4.4 -> ^4.5.2
+- @swc/core: ^1.2.108 -> ^1.2.110
+
 ## 9.0.20
 
 ### Patch Changes
