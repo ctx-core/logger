@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.24
+
+### Patch Changes
+
+- @swc/core: ^1.2.113 -> ^1.2.116
+
 ## 9.0.23
 
 ### Patch Changes
