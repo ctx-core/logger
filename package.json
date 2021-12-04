@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/logger",
-	"version": "9.0.24",
+	"version": "9.0.25",
 	"description": "ctx-core logger",
 	"keywords": [
 		"ctx-core",
@@ -39,7 +39,7 @@
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.52",
-		"@swc/core": "^1.2.116",
+		"@swc/core": "^1.2.117",
 		"typescript": "next"
 	},
 	"publishConfig": {
