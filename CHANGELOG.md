@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.27
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 9.0.26
 
 ### Patch Changes
