@@ -4,6 +4,16 @@
 
 ### Patch Changes
 
+- - ansi_debug,ansi_log,ansi_info,ansi_warn,ansi_error
+
+  fix: loading issue
+
+  remove chalk dependency
+
+## 9.0.29
+
+### Patch Changes
+
 - chalk: ^4.1.2 -> ^5.0.0
 
 ## 9.0.28
