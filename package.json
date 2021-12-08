@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/logger",
-	"version": "9.0.28",
+	"version": "9.0.29",
 	"description": "ctx-core logger",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"chalk": "^4.1.2"
+		"chalk": "^5.0.0"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.52",
@@ -43,8 +43,5 @@
 	"publishConfig": {
 		"access": "public",
 		"cache": "~/.npm"
-	},
-	"noUpdate": [
-		"chalk"
-	]
+	}
 }
