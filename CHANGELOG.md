@@ -1,6 +1,6 @@
 # @ctx-core/logger
 
-## 9.0.29
+## 9.0.30
 
 ### Patch Changes
 
