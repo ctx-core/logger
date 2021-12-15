@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.36
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 9.0.35
 
 ### Patch Changes
