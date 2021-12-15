@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.35
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 9.0.34
 
 ### Patch Changes
