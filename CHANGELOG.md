@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.33
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 9.0.32
 
 ### Patch Changes
