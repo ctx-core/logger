@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.39
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 9.0.38
 
 ### Patch Changes
