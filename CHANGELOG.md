@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.38
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 9.0.37
 
 ### Patch Changes
