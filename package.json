@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/logger",
-	"version": "9.0.39",
+	"version": "9.0.40",
 	"description": "ctx-core logger",
 	"keywords": [
 		"ctx-core",
@@ -17,7 +17,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.ts",
+	"types": "./dist/index.d.ts",
 	"exports": {
 		".": {
 			"import": "./dist/index.js"
