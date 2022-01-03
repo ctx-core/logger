@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.42
+
+### Patch Changes
+
+- version bump
+
 ## 9.0.41
 
 ### Patch Changes
