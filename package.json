@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/logger",
-	"version": "9.0.43",
+	"version": "9.0.44",
 	"description": "ctx-core logger",
 	"keywords": [
 		"ctx-core",
@@ -44,5 +44,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }

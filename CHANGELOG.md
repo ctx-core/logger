@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.44
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 9.0.43
 
 ### Patch Changes
