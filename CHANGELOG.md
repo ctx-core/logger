@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.45
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 9.0.44
 
 ### Patch Changes
