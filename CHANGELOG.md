@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.47
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+
 ## 9.0.46
 
 ### Patch Changes
