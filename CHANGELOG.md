@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.0.48
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 9.0.47
 
 ### Patch Changes
