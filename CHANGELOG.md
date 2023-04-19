@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.1.19
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+
 ## 9.1.18
 
 ### Patch Changes
