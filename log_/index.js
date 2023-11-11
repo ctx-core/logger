@@ -1,7 +1,7 @@
 import { log } from '../log/index.js'
 /**
  * @param message
- * @param fn{Function}
+ * @param {Function}fn
  * @returns {(...arg_a:any[])=>any}
  */
 export function log_(message, fn) {
