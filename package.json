@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/logger",
-	"version": "9.2.1",
+	"version": "9.2.2",
 	"description": "ctx-core logger",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.json",
 		"./ansi",
 		"./console_",
 		"./debug",
