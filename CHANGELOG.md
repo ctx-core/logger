@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.2.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+
 ## 9.2.2
 
 ### Patch Changes
