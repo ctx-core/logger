@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.2.10
+
+### Patch Changes
+
+- tsx: ^4.7.0 -> ^4.7.1
+
 ## 9.2.9
 
 ### Patch Changes
