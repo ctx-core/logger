@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.2.11
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 9.2.10
 
 ### Patch Changes
