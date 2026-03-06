@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/logger",
-	"version": "9.2.12",
+	"version": "9.2.13",
 	"description": "ctx-core logger",
 	"keywords": [
 		"ctx-core",

@@ -1,5 +1,11 @@
 # @ctx-core/logger
 
+## 9.2.13
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 9.2.12
 
 ### Patch Changes
